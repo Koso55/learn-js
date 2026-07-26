@@ -1,0 +1,13 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Follow-along lessons and exercises for learning JavaScript, one data type at a time.",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
