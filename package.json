@@ -1,0 +1,13 @@
+{
+  "name": "learn-js",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Array exercises for JavaScript, scored with Jest.",
+  "scripts": {
+    "test": "jest",
+    "test:watch": "jest --watch"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
